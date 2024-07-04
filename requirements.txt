@@ -1,0 +1,9 @@
+sentence-transformers
+torch
+logging
+requests
+Flask
+faiss-cpu
+flask-cors
+langchain
+# googletrans==4.0.0-rc1
